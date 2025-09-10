@@ -1,5 +1,5 @@
-git clone https://github.com/votre-utilisateur/nom-du-projet.git
-cd nom-du-projet
+git clone https://github.com/noahsantosdacruz-source/nom-du-projet.git
+cd BTS-n-1-2026
 npm install
 npm start
 git add .
